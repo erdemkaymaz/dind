@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu
 MAINTAINER jerome.petazzoni@docker.com
 
 # Let's start with some basic stuff.
